@@ -1,14 +1,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/oursqlcommunity-org/one_time_for_planet/blob/main/feed.xml/</id>
-    <title>Interesting MySQL Posts without a Blog with RSS</title>
-    <link>https://github.com/oursqlcommunity-org/one_time_for_planet</link>
+    <id>https://github.com/oursqlcommunity-org/one_time_for_planet/</id>
+    <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
+    <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <description>TBC...</description>
+    <updated>2025-09-20T14:40:00+00:00</updated>
     <entry>
         <title>Oracle’s MySQL Layoffs — Strategy, Timing, and What It Means for Enterprise Customers</title>
         <link href="https://www.linkedin.com/pulse/oracles-mysql-layoffs-strategy-timing-what-means-patrik-backman-a5g3f/"/>
-        <description><![CDATA[The recent layoffs at Oracle’s MySQL team are not just another corporate restructuring. They are a signal — one that raises important questions for enterprises and the broader open-source community.]]></description>
+        <content type="html">The recent layoffs at Oracle’s MySQL team are not just another corporate restructuring. They are a signal — one that raises important questions for enterprises and the broader open-source community.></content>
         <id>https://www.linkedin.com/pulse/oracles-mysql-layoffs-strategy-timing-what-means-patrik-backman-a5g3f/</id>
-        <updated>Fri, 19 Sep 2025</updated>
+        <updated>2025-09-19T10:00:00+00:00</updated>
+        <author>
+          <name>Patrik Backman</name>
+          <uri>https://www.linkedin.com/in/patrikbackman/</uri>
+        </author>
     </entry>
 </feed>
