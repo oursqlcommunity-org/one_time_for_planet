@@ -1,15 +1,14 @@
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-    <channel>
-        <title>Interesting MySQL Posts without a Blog with RSS</title>
-        <link>https://github.com/oursqlcommunity-org/one_time_for_planet</link>
-        <description>TBC...</description>
-        <atom:link href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml" rel="self" type="application/rss+xml" />
-        <item>
-            <title>Oracle’s MySQL Layoffs — Strategy, Timing, and What It Means for Enterprise Customers</title>
-            <link>https://www.linkedin.com/pulse/oracles-mysql-layoffs-strategy-timing-what-means-patrik-backman-a5g3f/</link>
-            <description><![CDATA[The recent layoffs at Oracle’s MySQL team are not just another corporate restructuring. They are a signal — one that raises important questions for enterprises and the broader open-source community.]]></description>
-            <guid isPermaLink="true">https://www.linkedin.com/pulse/oracles-mysql-layoffs-strategy-timing-what-means-patrik-backman-a5g3f/</guid>
-            <pubDate>Fri, 19 Sep 2025</pubDate>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/oursqlcommunity-org/one_time_for_planet/blob/main/feed.xml/</id>
+    <title>Interesting MySQL Posts without a Blog with RSS</title>
+    <link>https://github.com/oursqlcommunity-org/one_time_for_planet</link>
+    <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
+    <description>TBC...</description>
+    <entry>
+        <title>Oracle’s MySQL Layoffs — Strategy, Timing, and What It Means for Enterprise Customers</title>
+        <link href="https://www.linkedin.com/pulse/oracles-mysql-layoffs-strategy-timing-what-means-patrik-backman-a5g3f/"/>
+        <description><![CDATA[The recent layoffs at Oracle’s MySQL team are not just another corporate restructuring. They are a signal — one that raises important questions for enterprises and the broader open-source community.]]></description>
+        <id>https://www.linkedin.com/pulse/oracles-mysql-layoffs-strategy-timing-what-means-patrik-backman-a5g3f/</id>
+        <updated>Fri, 19 Sep 2025</updated>
+    </entry>
+</feed>
