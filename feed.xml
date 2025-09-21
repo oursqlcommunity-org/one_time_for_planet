@@ -3,7 +3,7 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2025-09-21T10:45:00+00:00</updated>
+    <updated>2025-09-21T11:05:00+00:00</updated>
     <entry>
         <title>Oracle’s MySQL Layoffs — Strategy, Timing, and What It Means for Enterprise Customers</title>
         <link href="https://www.linkedin.com/pulse/oracles-mysql-layoffs-strategy-timing-what-means-patrik-backman-a5g3f/"/>
@@ -16,9 +16,20 @@
         </author>
     </entry>
     <entry>
+        <title>DuckDB internals(1)-File Format Overview</title>
+        <link href="https://www.linkedin.com/pulse/duckdb-internals1-file-format-overview-zongzhi-chen-xudxc/"/>
+        <content type="html">DuckDB is renowned for its high query performance. However, due to DuckDB's relatively short development history, there aren't many articles that deeply analyze its various modules. This series of articles will dissect DuckDB from the source code level. This article, as the first in the DuckDB source code analysis series, will begin by introducing the file format, focusing on the storage of metadata, while subsequent articles will examine table data storage. All analysis in this article is based on DuckDB version 1.3.1 source code, and the TL;DR is found at the end of the article.</content>
+        <id>https://www.linkedin.com/pulse/duckdb-internals1-file-format-overview-zongzhi-chen-xudxc//</id>
+        <updated>2025-09-01T10:00:00+00:00</updated>
+        <author>
+          <name>zongzhi chen</name>
+          <uri>https://www.linkedin.com/in/zongzhi-chen-35a77a40/</uri>
+        </author>
+    </entry>
+    <entry>
         <title>​MySQL's New Storage and Execution Engine: DuckDB​</title>
         <link href="https://www.linkedin.com/pulse/mysqls-new-storage-execution-engine-duckdb-zongzhi-chen-4woqc/"/>
-        <content type="html"></content>
+        <content type="html">DuckDB is an open-source database designed for online analytical processing (OLAP) and data analytics workloads. Due to its lightweight, high-performance, zero-configuration, and easy-to-integrate characteristics, it is rapidly becoming a popular choice in data science, BI tools, and embedded analytics scenarios.</content>
         <id>https://www.linkedin.com/pulse/mysqls-new-storage-execution-engine-duckdb-zongzhi-chen-4woqc/</id>
         <updated>2025-08-10T10:00:00+00:00</updated>
         <author>
