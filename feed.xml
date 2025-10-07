@@ -3,7 +3,18 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2025-10-05T11:00:00+00:00</updated>
+    <updated>2025-10-07T16:00:00+00:00</updated>
+    <entry>
+        <title>Celebrating a New Chapter: Percona Welcomes Peter Farkas as its New Chief Executive Officer</title>
+        <link href="https://www.percona.com/blog/celebrating-a-new-chapter-percona-welcomes-peter-farkas-as-its-new-chief-executive-officer/"/>
+        <content type="html">Today, we are excited to announce that Peter Farkas will serve as Percona’s new Chief Executive Officer, where he will build on the company’s long-standing track record of success with an eye toward continuous innovation and growth.</content>
+        <id>https://www.percona.com/blog/celebrating-a-new-chapter-percona-welcomes-peter-farkas-as-its-new-chief-executive-officer/</id>
+        <updated>2025-10-07T16:00:00+00:00</updated>
+        <author>
+          <name>Cindy Neely</name>
+          <uri>https://www.percona.com/blog/author/cindy-neely/</uri>
+        </author>
+    </entry>
     <entry>
         <title>Performance Framework Autobench3's Profiler Runner – MySQL Benchmarking Series #5</title>
         <link href="https://www.linkedin.com/pulse/performance-framework-autobench3s-profiler-runner-mysql-miller-pm9gc/"/>
