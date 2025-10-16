@@ -1,11 +1,17 @@
 # one_time_for_planet
-One-time links as RSS for Planet for the MySQL COmmunity.
+One-time links as an Atom Feed for Planet for the MySQL Community.
 
 TBC...
 
-...for having the possibility of adding post in Planet for the MySQL Community without having to enter a blog, of for blogs without RSS feed.
+...for having the possibility of adding posts in
+[Planet for the MySQL Community](https://planet.oursqlcommunity.org/)
+without having to enter a blog, of for blogs without a news feed
+(example of such blog in these issues:
+[Alibaba](https://github.com/oursqlcommunity-org/planet/issues/140),
+[Allow one-off posts](https://github.com/oursqlcommunity-org/planet/issues/145),
+...).
 
-...this allows to aggregate posts on LinkedIn, where an RSS feed is hard to get.
+...this allows to aggregate posts on LinkedIn, where an RSS feed is hard to get by.
 
 ...for fixing content-type:
 * https://groups.google.com/g/brython/c/M--O59kY6GA?pli=1
