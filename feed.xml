@@ -3,7 +3,18 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2025-10-07T16:00:00+00:00</updated>
+    <updated>2025-10-18T00:00:00+00:00</updated>
+    <entry>
+        <title>SQL Anti-Patterns You Should Avoid</title>
+        <link href="https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid"/>
+        <content type="html">Today, I will be talking about some of the common and high impact SQL anti-patterns I have seen from experience that can make queries and pipelines difficult to maintain, or have slower than expected performance.</content>
+        <id>https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid</id>
+        <updated>2025-10-18T00:00:00+00:00</updated>
+        <author>
+          <name>Jordan Goodman</name>
+          <uri>https://substack.com/@jordangoodman</uri>
+        </author>
+    </entry>
     <entry>
         <title>Celebrating a New Chapter: Percona Welcomes Peter Farkas as its New Chief Executive Officer</title>
         <link href="https://www.percona.com/blog/celebrating-a-new-chapter-percona-welcomes-peter-farkas-as-its-new-chief-executive-officer/"/>
