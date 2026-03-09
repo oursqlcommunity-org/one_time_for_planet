@@ -3,7 +3,18 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2025-10-18T00:00:00+00:00</updated>
+    <updated>2026-03-09T00:00:00+00:00</updated>
+    <entry>
+        <title>The MySQL-to-Postgres Migration That Saved $480K/Year: A Step-by-Step Guide</title>
+        <link href="https://medium.com/@dusan.stanojevic.cs/the-mysql-to-postgres-migration-that-saved-480k-year-a-step-by-step-guide-4b0fa9f5bdb7"/>
+        <content type="html">Everything I learned migrating two massive codebases from MySQL 8 RDS to Postgres RDS, so you don’t have to figure it out alone.</content>
+        <id>https://medium.com/@dusan.stanojevic.cs/the-mysql-to-postgres-migration-that-saved-480k-year-a-step-by-step-guide-4b0fa9f5bdb7</id>
+        <updated>2026-02-2500:00:00+00:00</updated>
+        <author>
+          <name>Dusan Stanojevic</name>
+          <uri>https://medium.com/@dusan.stanojevic.cs/</uri>
+        </author>
+    </entry>
     <entry>
         <title>SQL Anti-Patterns You Should Avoid</title>
         <link href="https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid"/>
