@@ -3,7 +3,18 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-03-09T01:00:00+00:00</updated>
+    <updated>2026-03-12T00:00:00+00:00</updated>
+    <entry>
+        <title>Is MySQL Due for a Renaissance?</title>
+        <link href="https://www.adventuresinoss.com/mysql-renaissance/"/>
+        <content type="html">Back at the turn of the century, open source was experiencing widespread adoption along with the growth of the Internet. The acronym LAMP was used a lot, meaning Linux, Apache, MySQL and PHP.</content>
+        <id>https://www.adventuresinoss.com/mysql-renaissance/7</id>
+        <updated>2026-03-11T15:15:00+00:00</updated>
+        <author>
+          <name>Tarus Balog</name>
+          <uri>https://www.linkedin.com/in/tarusbalog/</uri>
+        </author>
+    </entry>
     <entry>
         <title>The MySQL-to-Postgres Migration That Saved $480K/Year: A Step-by-Step Guide</title>
         <link href="https://medium.com/@dusan.stanojevic.cs/the-mysql-to-postgres-migration-that-saved-480k-year-a-step-by-step-guide-4b0fa9f5bdb7"/>
