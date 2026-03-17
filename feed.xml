@@ -3,7 +3,18 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-03-12T00:00:00+00:00</updated>
+    <updated>2026-03-17T00:00:00+00:00</updated>
+    <entry>
+        <title>The MySQL Shadow</title>
+        <link href="https://momjian.us/main/blogs/pgblog/2026.html#March_11_2026"/>
+        <content type="html">For much of Postgres's history, it has lived in the shadow of other relational systems, and for a time even in the shadow of NoSQL systems. Those shadows have faded, but it is helpful to reflect on this outcome.</content>
+        <id>https://momjian.us/main/blogs/pgblog/2026.html#March_11_2026</id>
+        <updated>2026-03-11T16:00:00+00:00</updated>
+        <author>
+          <name>Bruce Momjian</name>
+          <uri>https://momjian.us/</uri>
+        </author>
+    </entry>
     <entry>
         <title>Is MySQL Due for a Renaissance?</title>
         <link href="https://www.adventuresinoss.com/mysql-renaissance/"/>
