@@ -3,7 +3,18 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-03-17T00:00:00+00:00</updated>
+    <updated>2026-03-20T00:00:00+00:00</updated>
+    <entry>
+        <title>DuckDB Storage Engine for MariaDB: Full-Speed Analytics Inside Your Database</title>
+        <link href="https://www.linkedin.com/pulse/duckdb-storage-engine-mariadb-full-speed-analytics-inside-drrtuy-ijowc/"/>
+        <content type="html">MariaDB has long been celebrated for its pluggable storage engine architecture — the same design that lets you run InnoDB, Aria, ColumnStore, and other engines within a single server. Now there's a new player joining the lineup: the DuckDB Storage Engine, bringing the full power of DuckDB's columnar analytical engine right inside MariaDB.</content>
+        <id>https://www.linkedin.com/pulse/duckdb-storage-engine-mariadb-full-speed-analytics-inside-drrtuy-ijowc/</id>
+        <updated>2026-03-20T00:00:00+00:00</updated>
+        <author>
+          <name>drrtuy drrtuy</name>
+          <uri>https://www.linkedin.com/in/drrtuy/</uri>
+        </author>
+    </entry>
     <entry>
         <title>The MySQL Shadow</title>
         <link href="https://momjian.us/main/blogs/pgblog/2026.html#March_11_2026"/>
