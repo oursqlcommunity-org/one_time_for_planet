@@ -3,7 +3,7 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-03-20T00:00:00+00:00</updated>
+    <updated>2026-03-28T00:00:00+00:00</updated>
     <entry>
         <title>DuckDB Storage Engine for MariaDB: Full-Speed Analytics Inside Your Database</title>
         <link href="https://www.linkedin.com/pulse/duckdb-storage-engine-mariadb-full-speed-analytics-inside-drrtuy-ijowc/"/>
@@ -13,6 +13,17 @@
         <author>
           <name>drrtuy drrtuy</name>
           <uri>https://www.linkedin.com/in/drrtuy/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title>Thought - Why Postgres is a dangerous default</title>
+        <link href="https://www.binarybox.org/p/thought-why-postgres-is-a-dangerous"/>
+        <content type="html">Nobody gets fired for choosing Postgres. It is the safest, most defensible technical decision you can make. Until it isn't. Especially when you are building a highly concurrent, event-driven logger.</content>
+        <id>https://www.binarybox.org/p/thought-why-postgres-is-a-dangerous</id>
+        <updated>2026-03-10T00:00:00+00:00</updated>
+        <author>
+          <name>Ashok Vishwakarma</name>
+          <uri>https://substack.com/@avishwakarma</uri>
         </author>
     </entry>
     <entry>
