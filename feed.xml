@@ -3,9 +3,9 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-04-01T00:00:00+00:00</updated>
+    <updated>2026-04-01T01:00:00+00:00</updated>
     <entry>
-        <title>MySQL at 30 – does it still have a future? [Q&A]</title>
+        <title>MySQL at 30 – does it still have a future? QnA</title>
         <link href=""/>
         <content type="html">Last year MySQL marked its 30th birthday, but with end of life for the current version (8.0) coming up next month and moves towards a community edition what does the future hold for the platform? We spoke to Peter Zaitsev, founder of database support specialist Percona, to discuss what MySQL users should be doing now and whether there’s still life in the old database yet.</content>
         <id>https://betanews.com/article/mysql-at-30-does-it-still-have-a-future-qa/</id>
