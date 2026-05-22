@@ -3,7 +3,18 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-04-08T00:00:00+00:00</updated>
+    <updated>2026-05-22T18:00:00+00:00</updated>
+    <entry>
+        <title>How to automate large-scale RDS MySQL 8.0 to RDS MySQL 8.4 upgrades with Kiro and MCP</title>
+        <link href="https://repost.aws/articles/AReoa8WCDiQIqcwaWbPT6auQ/how-to-automate-large-scale-rds-mysql-8-0-to-rds-mysql-8-4-upgrades-with-kiro-and-mcp"/>
+        <content type="html">When a customer has 100+ RDS MySQL 8.0 instances that need to upgrade to 8.4, they face several challenges. The RDS MySQL Upgrade Assistant is an open-source tool that provides a 19-check SQL precheck engine with a remediation playbook, automated parameter and option group migration, Blue/Green and in-place upgrade orchestration with pre-switchover guardrail checks, and an application validation framework — all accessible via shell scripts or natural language through Kiro IDE/CLI.</content>
+        <id>https://repost.aws/articles/AReoa8WCDiQIqcwaWbPT6auQ/how-to-automate-large-scale-rds-mysql-8-0-to-rds-mysql-8-4-upgrades-with-kiro-and-mcp</id>
+        <updated>2026-05-22T18:00:00+00:00</updated>
+        <author>
+          <name>Taylor Chu</name>
+          <uri>https://repost.aws/community/users/USrsuna3MOSKaN-c3egfooMQ</uri>
+        </author>
+    </entry>
     <entry>
         <title>MySQL at a Crossroads: Oracle Control, Community Frustration, and MariaDB’s Rise</title>
         <link href="https://www.softwareplaza.com/it-magazine/mysql-at-a-crossroads:-oracle-control,-community-frustration,-and-mariadb%E2%80%99s-rise"/>
