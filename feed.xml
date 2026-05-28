@@ -3,7 +3,18 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-05-22T18:00:00+00:00</updated>
+    <updated>2026-05-28T14:00:00+00:00</updated>
+    <entry>
+        <title>OurSQL Foundation launches to support MySQL users, developers, and companies</title>
+        <link href="https://www.globenewswire.com/news-release/2026/05/27/3302305/0/en/oursql-foundation-launches-to-support-mysql-users-developers-and-companies.html"/>
+        <content type="html">Today marks the launch of The OurSQL Foundation, an open organisation that will support the community of users, developers, and companies that are invested in the success of MySQL. The new Foundation will provide a venue for those involved in the MySQL community using, building and deploying applications that use MySQL or the broad range of compatible software to share with their peers, to access knowledge, and to provide feedback on future development in a transparent and consistent way. This community organization will support the growth and use of MySQL as an open source database and collaborate with all players in the market, including Oracle, to see MySQL succeed with the next generation of developers and applications.</content>
+        <id>https://www.globenewswire.com/news-release/2026/05/27/3302305/0/en/oursql-foundation-launches-to-support-mysql-users-developers-and-companies.html</id>
+        <updated>2026-05-28T14:00:00+00:00</updated>
+        <author>
+          <name>OurSQL</name>
+          <uri>https://www.globenewswire.com/en/search/organization/OurSQL</uri>
+        </author>
+    </entry>   
     <entry>
         <title>How to automate large-scale RDS MySQL 8.0 to RDS MySQL 8.4 upgrades with Kiro and MCP</title>
         <link href="https://repost.aws/articles/AReoa8WCDiQIqcwaWbPT6auQ/how-to-automate-large-scale-rds-mysql-8-0-to-rds-mysql-8-4-upgrades-with-kiro-and-mcp"/>
