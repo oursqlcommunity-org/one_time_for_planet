@@ -3,7 +3,18 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-05-18T20:00:00+00:00</updated>
+    <updated>2026-08-20T00:00:00+00:00</updated>    
+    <entry>
+        <title>A Distributed Lock in Go and MySQL, and Every Way the Session Can Betray You</title>
+        <link href="https://tecnick.com/articles/nurago-mysqllock/"/>
+        <content type="html">This page provides a view of the vulnerabilities addressed in MySQL Community Edition in the June 2026 Oracle MySQL Critical Security Patch Update. For this page, “MySQL Community Edition” means Community-distributed MySQL products. Only rows that map to Community-distributed components are included here.</content>
+        <id>https://tecnick.com/articles/nurago-mysqllock/</id>
+        <updated>2026-07-18T00:00:00+00:00</updated>
+        <author>
+          <name>Nicola Asuni</name>
+          <uri>https://github.com/nicolaasuni</uri>
+        </author>
+    </entry>
     <entry>
         <title>MySQL Community Edition Vulnerability Advisory: June 2026</title>
         <link href="https://dev.mysql.com/community/vulnerability/advisories/2026-06-16/"/>
