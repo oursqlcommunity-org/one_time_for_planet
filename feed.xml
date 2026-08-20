@@ -3,11 +3,33 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-08-20T00:00:00+00:00</updated>    
+    <updated>2026-08-20T00:00:00+00:00</updated>
+    <entry>
+        <title>MySQL Community Edition Vulnerability Advisory: August 2026</title>
+        <link href="https://dev.mysql.com/community/security/advisories/2026-08-18/"/>
+        <content type="html">This page provides a view of the vulnerabilities addressed in MySQL Community Edition in the August 2026 Oracle MySQL Critical Security Patch Update. For this page, “MySQL Community Edition” means Community-distributed MySQL products. Only rows that map to Community-distributed components are included here.</content>
+        <id>https://dev.mysql.com/community/security/advisories/2026-08-18/</id>
+        <updated>2026-08-18T00:00:00+00:00</updated>
+        <author>
+          <name>Oracle/MySQL Community</name>
+          <uri>https://dev.mysql.com/community/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title>MySQL Community Edition Vulnerability Advisory: July 2026</title>
+        <link href="https://dev.mysql.com/community/security/advisories/2026-07-21/"/>
+        <content type="html">This page provides a view of the vulnerabilities addressed in MySQL Community Edition in the July 2026 Oracle MySQL Critical Security Patch Update. For this page, “MySQL Community Edition” means Community-distributed MySQL products. Only rows that map to Community-distributed components are included here.</content>
+        <id>https://dev.mysql.com/community/security/advisories/2026-07-21/</id>
+        <updated>2026-07-21T00:00:00+00:00</updated>
+        <author>
+          <name>Oracle/MySQL Community</name>
+          <uri>https://dev.mysql.com/community/</uri>
+        </author>
+    </entry>
     <entry>
         <title>A Distributed Lock in Go and MySQL, and Every Way the Session Can Betray You</title>
         <link href="https://tecnick.com/articles/nurago-mysqllock/"/>
-        <content type="html">This page provides a view of the vulnerabilities addressed in MySQL Community Edition in the June 2026 Oracle MySQL Critical Security Patch Update. For this page, “MySQL Community Edition” means Community-distributed MySQL products. Only rows that map to Community-distributed components are included here.</content>
+        <content type="html">Some work must happen at most once across an entire fleet: a nightly reconciliation, an idempotent migration, a cache rebuild. When several instances of a service could each try to run it, you need a lock that spans processes, and an in-memory mutex cannot span processes. One tempting answer, if you already depend on MySQL, is its built-in named locks: GET_LOCK('key', timeout) grants a server-wide lock, RELEASE_LOCK('key') frees it, and you have avoided standing up a separate coordination service. The mysqllock package in nurago is under six hundred lines built on exactly that primitive. This post is about the gap between “call GET_LOCK” and “a lock I can reason about”, because a MySQL named lock has one property that quietly invalidates the naive version: it lives and dies with the  database session that holds it. What follows is a catalogue of the ways that session betrays you, and what the package does about each one.Computer Science</content>
         <id>https://tecnick.com/articles/nurago-mysqllock/</id>
         <updated>2026-07-18T00:00:00+00:00</updated>
         <author>
@@ -17,7 +39,7 @@
     </entry>
     <entry>
         <title>MySQL Community Edition Vulnerability Advisory: June 2026</title>
-        <link href="https://dev.mysql.com/community/vulnerability/advisories/2026-06-16/"/>
+        <link href="https://dev.mysql.com/community/security/advisories/2026-06-16/"/>
         <content type="html">This page provides a view of the vulnerabilities addressed in MySQL Community Edition in the June 2026 Oracle MySQL Critical Security Patch Update. For this page, “MySQL Community Edition” means Community-distributed MySQL products. Only rows that map to Community-distributed components are included here.</content>
         <id>https://dev.mysql.com/community/vulnerability/advisories/2026-06-16/</id>
         <updated>2026-06-16T00:00:00+00:00</updated>
