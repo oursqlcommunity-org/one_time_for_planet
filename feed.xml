@@ -3,7 +3,18 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-08-20T01:00:00+00:00</updated>
+    <updated>2026-09-29T01:00:00+00:00</updated>
+    <entry>
+        <title>2026 Percona Live EU - Amsterdam</title>
+        <link href="https://www.adventuresinoss.com/2026-percona-live-eu/"/>
+        <content type="html">I was super-eager to attend my first Percona Live as a Perconian.  While I was supposed to be at the one in the US in May, my life was overtaken by events and I didn’t make it, so this was my first chance to attend since the one in Denver back in 2023.</content>
+        <id>https://www.adventuresinoss.com/2026-percona-live-eu//</id>
+        <updated>2026-09-22T00:00:00+00:00</updated>
+        <author>
+          <name>Tarus Balog</name>
+          <uri>https://www.adventuresinoss.com/page/about/</uri>
+        </author>
+    </entry>
     <entry>
         <title>MySQL Community Edition Vulnerability Advisory: August 2026</title>
         <link href="https://dev.mysql.com/community/security/advisories/2026-08-18/"/>
