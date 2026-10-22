@@ -1,22 +1,50 @@
-# one_time_for_planet
-One-time links as an Atom Feed for Planet for the MySQL Community.
 
-TBC...
+<!-- 6789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 -->
 
-...for having the possibility of adding posts in
-[Planet for the MySQL Community](https://planet.oursqlcommunity.org/)
-without having to enter a blog, of for blogs without a news feed
-(example of such blog in these issues:
-[Alibaba](https://github.com/oursqlcommunity-org/planet/issues/140),
-[Allow one-off posts](https://github.com/oursqlcommunity-org/planet/issues/145),
-...).
+# One-Time for Planet
 
-...this allows to aggregate posts on LinkedIn, where an RSS feed is hard to get by.
+One-time links as an Atom Feed for [Planet for the MySQL Community](https://planet.oursqlcommunity.org/)
 
-...for fixing content-type:
+This repository contains a feed file, [feed.xml](https://github.com/oursqlcommunity-org/one_time_for_planet/blob/main/feed.xml),
+which is aggregated by Planet for the MySQL Community.
+
+<!-- 6789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 -->
+
+By adding entries to this file, it is possible to include content to Planet for the MySQL Community
+that would otherwise be difficult to aggregate.  This includes news sources
+without a feed, filtered subscriptions that excludes relevant posts, or
+subscriptions which are not worth adding.
+
+More information can be found in the [Allow one-off posts](https://github.com/oursqlcommunity-org/planet/issues/145)
+issue.
+
+<!-- 6789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 -->
+
+
+If you know of an interesting post missing from Planet Valkey, open an issue,
+or even better, submit a PR.
+
+<!-- 6789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 -->
+
+## Technical notes
+
+For fixing content-type:
 * https://groups.google.com/g/brython/c/M--O59kY6GA?pli=1
 * https://raw.githack.com/
 
-If you know of an interesting post not arriving on Planet for the MySQL Community,
-feel free to open an issue with a link to it,
-or even better, submit a PR.
+<!-- 6789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 -->
+
+### Checklist
+
+Adding an entry is error-prone.  Use the checklist below:
+
+- make changes in a branch so multiple commits can be squashed-merged
+  (more than one commit might be needed to fix xml errors);
+
+- before merging, validate the file with a feed validator
+  like [Feed Validator](https://www.feedvalidator.org/) (easier to use, but http only)
+  or [W3C Feed Validation Service](https://validator.w3.org/feed/) (more complete);
+
+- the URL for the file to be validated can be generated with [rawgit.hack](https://raw.githack.com/).
+
+<!-- EOF -->
