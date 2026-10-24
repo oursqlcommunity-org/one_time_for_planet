@@ -3,7 +3,18 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-09-29T01:00:00+00:00</updated>
+    <updated>2026-10-24T01:00:00+00:00</updated>
+    <entry>
+        <title>AliSQL 8.0.44-3 — Binlog Realtime Replication and DuckDB updates</title>
+        <link href="https://alisql.net/docs/releases/alisql-8-0-44-3/"/>
+        <content type="html">AliSQL 8.0.44-3 adds Binlog Realtime Replication (BRR), updates the embedded DuckDB to 1.5.2, and fixes integration issues. It remains based on MySQL 8.0.44.</content>
+        <id>https://alisql.net/docs/releases/alisql-8-0-44-3/</id>
+        <updated>2026-10-16T00:00:00+00:00</updated>
+        <author>
+          <name>AliSQL</name>
+          <uri>https://alisql.net/</uri>
+        </author>
+    </entry>    
     <entry>
         <title>2026 Percona Live EU - Amsterdam</title>
         <link href="https://www.adventuresinoss.com/2026-percona-live-eu/"/>
