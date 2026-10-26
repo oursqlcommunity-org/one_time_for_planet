@@ -3,7 +3,18 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-10-24T01:00:00+00:00</updated>
+    <updated>2026-10-26T00:00:00+00:00</updated>
+    <entry>
+        <title>MySQL and MariaDB: Account Locking in Practice</title>
+        <link href="https://www.linkedin.com/pulse/mysql-mariadb-account-locking-practice-emerson-martins-msc-wkkaf/"/>
+        <content type="html">Recently, I reviewed many users' applications on a database server to remove unused accounts from a legacy application. This is a simple function, but exists most differences in this context between MySQL 8.0 and MariaDB offer different approaches to database account security? </content>
+        <id>https://www.linkedin.com/pulse/mysql-mariadb-account-locking-practice-emerson-martins-msc-wkkaf/</id>
+        <updated>2026-10-23T00:00:00+00:00</updated>
+        <author>
+          <name>Emerson Martins, Msc</name>
+          <uri>https://www.linkedin.com/in/emersonmartinss/</uri>
+        </author>
+    </entry>
     <entry>
         <title>AliSQL 8.0.44-3 — Binlog Realtime Replication and DuckDB updates</title>
         <link href="https://alisql.net/docs/releases/alisql-8-0-44-3/"/>
@@ -14,7 +25,7 @@
           <name>AliSQL</name>
           <uri>https://alisql.net/</uri>
         </author>
-    </entry>    
+    </entry>
     <entry>
         <title>2026 Percona Live EU - Amsterdam</title>
         <link href="https://www.adventuresinoss.com/2026-percona-live-eu/"/>
