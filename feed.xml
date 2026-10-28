@@ -3,7 +3,18 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-10-26T00:00:00+00:00</updated>
+    <updated>2026-10-28T00:00:00+00:00</updated>
+    <entry>
+        <title>MySQL 8.4 Data Paths</title>
+        <link href="https://yunushaikh.github.io/mysql-data-paths/"/>
+        <content type="html">Follow one transaction or one query from the client down to the disk. Change a setting on the left and the path re-routes: watch which file gets a write(), which gets an fsync(), and what is still sitting in the OS cache when the client gets OK.</content>
+        <id>https://yunushaikh.github.io/mysql-data-paths/</id>
+        <updated>2026-10-26T00:00:00+00:00</updated>
+        <author>
+          <name>Yunus Shaikh</name>
+          <uri>https://www.linkedin.com/in/yunushaikh/</uri>
+        </author>
+    </entry>
     <entry>
         <title>MySQL and MariaDB: Account Locking in Practice</title>
         <link href="https://www.linkedin.com/pulse/mysql-mariadb-account-locking-practice-emerson-martins-msc-wkkaf/"/>
