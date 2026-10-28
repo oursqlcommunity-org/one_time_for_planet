@@ -5,6 +5,17 @@
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
     <updated>2026-10-28T00:00:00+00:00</updated>
     <entry>
+        <title>Naming Things is Hard</title>
+        <link href="https://stroz.dev/posts/2026/october/naming-is-hard/"/>
+        <content type="html">Naming things is hard, especially in the context of database design and development. In this post, we explore the challenges and considerations involved in choosing meaningful names for tables, columns, and other database objects.</content>
+        <id>https://stroz.dev/posts/2026/october/naming-is-hard/</id>
+        <updated>2026-10-28T00:00:00+00:00</updated>
+        <author>
+          <name>Scott Stroz</name>
+          <uri>https://stroz.dev/</uri>
+        </author>
+    </entry>
+    <entry>
         <title>MySQL Community Spotlight - Vincius Grippa</title>
         <link href="https://github.com/mysql/mysql-community/wiki/Vinicius-Grippa"/>
         <content type="html">Meet Vinicius Grippa in the MySQL Community Spotlight, a brief Q and A introducing one of the people behind the community.</content>
