@@ -5,6 +5,17 @@
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
     <updated>2026-10-28T00:00:00+00:00</updated>
     <entry>
+        <title>MySQL Community Spotlight - Vincius Grippa</title>
+        <link href="https://github.com/mysql/mysql-community/wiki/Vinicius-Grippa"/>
+        <content type="html">Meet Vinicius Grippa in the MySQL Community Spotlight, a brief Q and A introducing one of the people behind the community.</content>
+        <id>https://github.com/mysql/mysql-community/wiki/Vinicius-Grippa</id>
+        <updated>2026-10-28T00:00:00+00:00</updated>
+        <author>
+          <name>MySQL Community Team</name>
+          <uri>https://github.com/mysql/mysql-community</uri>
+        </author>
+    </entry>
+    <entry>
         <title>MySQL 8.4 Data Paths</title>
         <link href="https://yunushaikh.github.io/mysql-data-paths/"/>
         <content type="html">Follow one transaction or one query from the client down to the disk. Change a setting on the left and the path re-routes: watch which file gets a write(), which gets an fsync(), and what is still sitting in the OS cache when the client gets OK.</content>
