@@ -6,9 +6,9 @@
     <updated>2026-11-04T00:00:00+00:00</updated>
     <entry>
         <title>MySQL Shorts - Episode 105 - MySQL Null-Safe Equality Operator for Accurate Filtering</title>
-        <link href="https://www.youtube.com/watch?v=2qBJPYaMzwU&list=PLWx5a9Tn2EvG4C90YFJ9eU61IpALeE0SN"/>
+        <link href="https://www.youtube.com/watch?v=2qBJPYaMzwU&amp;list=PLWx5a9Tn2EvG4C90YFJ9eU61IpALeE0SN"/>
         <content type="html">MySQL's null-safe equality operator helps you write SQL queries that correctly match NULL values and retrieve records that ordinary equality comparisons miss.</content>
-        <id>https://www.youtube.com/watch?v=2qBJPYaMzwU&list=PLWx5a9Tn2EvG4C90YFJ9eU61IpALeE0SN</id>
+        <id>https://www.youtube.com/watch?v=2qBJPYaMzwU&amp;list=PLWx5a9Tn2EvG4C90YFJ9eU61IpALeE0SN</id>
         <updated>2026-11-03T00:00:00+00:00</updated>
         <author>
           <name>MySQL Youtube Channel</name>
