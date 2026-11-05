@@ -3,7 +3,18 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-11-04T01:00:00+00:00</updated>
+    <updated>2026-11-05T00:00:00+00:00</updated>
+    <entry>
+        <title>MySQL Community Spotlight - Jonathan Desrosiers</title>
+        <link href="https://github.com/mysql/mysql-community/wiki/Jonathan-Desrosiers"/>
+        <content type="html">From WordPress to MySQL, Jonathan shares his journey and lessons on community and compatibility.</content>
+        <id>https://github.com/mysql/mysql-community/wiki/Jonathan-Desrosiers</id>
+        <updated>2026-11-03T02:00:00+00:00</updated>
+        <author>
+          <name>MySQL Community Team</name>
+          <uri>https://github.com/mysql/mysql-community</uri>
+        </author>
+    </entry>
     <entry>
         <title>I Built a Database Explorer That Can't Ruin Your Friday</title>
         <link href="https://dev.to/rp01/i-built-a-database-explorer-that-cant-ruin-your-friday-hnh"/>
