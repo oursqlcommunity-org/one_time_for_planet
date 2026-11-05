@@ -3,7 +3,18 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-11-04T00:00:00+00:00</updated>
+    <updated>2026-11-04T01:00:00+00:00</updated>
+    <entry>
+        <title>I Built a Database Explorer That Can't Ruin Your Friday</title>
+        <link href="https://dev.to/rp01/i-built-a-database-explorer-that-cant-ruin-your-friday-hnh"/>
+        <content type="html">Every developer has a database horror story. Mine usually starts with a terminal, a production connection string, and the words "quick fix". It ends with someone saying "so... do we have backups?" in a very quiet voice.  So I built DBAdminer: a database explorer that starts in read-only mode, because it assumes you're tired, caffeinated, and one typo away from a postmortem.</content>
+        <id>https://dev.to/rp01/i-built-a-database-explorer-that-cant-ruin-your-friday-hnh</id>
+        <updated>2026-11-03T01:00:00+00:00</updated>
+        <author>
+          <name>Ramananda Panda</name>
+          <uri>https://dev.to/rp01</uri>
+        </author>
+    </entry>
     <entry>
         <title>MySQL Shorts - Episode 105 - MySQL Null-Safe Equality Operator for Accurate Filtering</title>
         <link href="https://www.youtube.com/watch?v=2qBJPYaMzwU&amp;list=PLWx5a9Tn2EvG4C90YFJ9eU61IpALeE0SN"/>
