@@ -3,11 +3,22 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-11-11T17:35:00+00:00</updated>
+    <updated>2026-11-11T18:05:00+00:00</updated>
+    <entry>
+        <title>Dominic Preuss about MySQL on Inside the Silicon Mind with Firas Sozan</title>
+        <link href="https://youtu.be/iAiaAQW1jEo?si=6A7-mKx_RSoWhJ2t"/>
+        <content type="html">I sat down with Dominic Preuss who now runs VillageSQL, a startup betting that MySQL can become a platform for innovation again. He breaks down why founders should pick the database they already know, how MySQL went from a Swedish startup to Sun Microsystems to Oracle, and why Oracle is now opening its development to AWS and Google.</content>
+        <id>https://youtu.be/iAiaAQW1jEo?si=6A7-mKx_RSoWhJ2t</id>
+        <updated>2026-11-11T18:05:00+00:00</updated>
+        <author>
+          <name>Inside the Silicon Mind with Firas Sozan - Youtube</name>
+          <uri>https://www.youtube.com/@InsideTheSiliconMind</uri>
+        </author>
+    </entry>
     <entry>
         <title>MySQL Community Spotlight - Omar Farhat</title>
         <link href="https://github.com/mysql/mysql-community/wiki/Omar-Farhat"/>
-        <content type="html">Omar Farhat, Software Development Manager at AWS Aurora MySQL, shares the story of how he got involved with MySQL..</content>
+        <content type="html">Omar Farhat, Software Development Manager at AWS Aurora MySQL, shares the story of how he got involved with MySQL.</content>
         <id>https://github.com/mysql/mysql-community/wiki/Omar-Farhat</id>
         <updated>2026-11-11T17:35:00+00:00</updated>
         <author>
