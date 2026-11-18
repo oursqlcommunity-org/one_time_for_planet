@@ -3,7 +3,18 @@
     <title>Interesting MySQL Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/oursqlcommunity-org/one_time_for_planet"/>
     <link rel="self" href="https://raw.githubusercontent.com/oursqlcommunity-org/one_time_for_planet/refs/heads/main/feed.xml"/>
-    <updated>2026-11-11T18:05:00+00:00</updated>
+    <updated>2026-11-18T00:00:00+00:00</updated>
+    <entry>
+        <title>MySQL Shorts - Episode 107 - MySQL Transactions: Maintain Data Consistency</title>
+        <link href="https://www.youtube.com/watch?v=kuAAXCtNavI&amp;list=PLWx5a9Tn2EvG4C90YFJ9eU61IpALeE0SN&amp;index=2"/>
+        <content type="html">MySQL transactions help maintain data consistency by grouping related SQL updates so they can be committed together or rolled back when an operation fails. See how START TRANSACTION and ROLLBACK work with inventory updates and database constraints to reverse uncommitted changes.</content>
+        <id>https://www.youtube.com/watch?v=kuAAXCtNavI&amp;list=PLWx5a9Tn2EvG4C90YFJ9eU61IpALeE0SN&amp;index=2</id>
+        <updated>2026-11-17T00:00:00+00:00</updated>
+        <author>
+          <name>MySQL Youtube Channel</name>
+          <uri>https://www.youtube.com/@mysql</uri>
+        </author>
+    </entry>
     <entry>
         <title>Dominic Preuss about MySQL on Inside the Silicon Mind with Firas Sozan</title>
         <link href="https://youtu.be/iAiaAQW1jEo?si=6A7-mKx_RSoWhJ2t"/>
